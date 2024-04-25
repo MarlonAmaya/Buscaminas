@@ -1,0 +1,14 @@
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\bin\Debug\net8.0\buscaminas.exe
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\bin\Debug\net8.0\buscaminas.deps.json
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\bin\Debug\net8.0\buscaminas.runtimeconfig.json
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\bin\Debug\net8.0\buscaminas.dll
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\bin\Debug\net8.0\buscaminas.pdb
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\obj\Debug\net8.0\buscaminas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\obj\Debug\net8.0\buscaminas.AssemblyInfoInputs.cache
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\obj\Debug\net8.0\buscaminas.AssemblyInfo.cs
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\obj\Debug\net8.0\buscaminas.csproj.CoreCompileInputs.cache
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\obj\Debug\net8.0\buscaminas.dll
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\obj\Debug\net8.0\refint\buscaminas.dll
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\obj\Debug\net8.0\buscaminas.pdb
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\obj\Debug\net8.0\buscaminas.genruntimeconfig.cache
+D:\Programas\Microsoft Visual Studio\source\repos\buscaminas\obj\Debug\net8.0\ref\buscaminas.dll
